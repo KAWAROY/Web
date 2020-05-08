@@ -1,0 +1,33 @@
+
+#header1{
+	background-color: #d8da3d;
+	position: fixed;
+	width: 150000px;
+	height: 200px;
+	border: 3px solid #000;
+	margin: auto;
+}
+
+#text1{
+	font-family:"Times New Roman";  
+}
+#text2{
+	font-family:"Calisto MT";  
+}
+#text3{
+	font-family:"Comic Sans MS";  
+}
+#text4{
+	font-family:"Arial Black";  
+}
+#text5{
+	font-family:"Calibri";  
+}
+
+#pie{
+	position:fixed;
+ 	bottom:0px;
+ 	
+}
+	
+          
